@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "arbitros_por_partido")
+@Table(name = "arbitros_por_partidos")
 public class ArbitroPorPartido {
 
     @Id
